@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @hirenpatel-ds
 - 👀 I’m interested in python Data science field
-- 🌱 I’m currently learning pandas
+- 🌱 I’m currently learning Machine Learning ALgorithms
 - 💞️ I’m looking to collaborate on data science project
 - 📫 How to reach me: You can say hello to me on: hiren.patel2728@gmail.com
 
